@@ -54,6 +54,9 @@
     display: none;
   }
 }
+.header-content-navbar-mobile {
+  cursor: pointer;
+}
 .header-content-navbar-mobile ul {
   display: flex;
   align-items: center;
@@ -231,4 +234,4 @@
   padding-right: 30px;
 }
 
-/*# sourceMappingURL=style.css.map */*/
+/*# sourceMappingURL=style.css.map */

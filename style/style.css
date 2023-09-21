@@ -254,5 +254,7 @@
   }
   .footer-container-content {
     padding-bottom: 30px;
+    height: 180px;
+    border: 1px solid blue;
   }
 }/*# sourceMappingURL=style.css.map */

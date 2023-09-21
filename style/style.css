@@ -199,7 +199,7 @@
 }
 @media screen and (max-width: 500px) {
   .header {
-    width: 90%;
+    width: 85%;
   }
   .header-navbar-desktop {
     display: none;
@@ -213,7 +213,7 @@
   .main {
     display: flex;
     flex-direction: column;
-    width: 90%;
+    width: 85%;
   }
   .main-container {
     width: 100%;
@@ -246,15 +246,15 @@
     height: 500px;
   }
   .footer {
-    width: 90%;
+    width: 85%;
   }
   .footer-container {
     display: flex;
     flex-direction: column;
   }
   .footer-container-content {
-    padding-bottom: 30px;
-    height: 180px;
+    padding-bottom: 60px;
+    height: 200px;
     border: 1px solid blue;
   }
 }/*# sourceMappingURL=style.css.map */
